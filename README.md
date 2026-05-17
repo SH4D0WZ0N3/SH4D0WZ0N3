@@ -1,24 +1,21 @@
-<div align="center">
+Readme · MD
+Copy
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1200,100:000000&height=220&section=header&text=SH4D0WZ0N3&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Infrastructure%20Specialist&descAlignY=70&descSize=15&descColor=8a7a40&stroke=FFD700&strokeWidth=0.5" width="100%"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=16&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=620&lines=Architecting+AI+infrastructure+at+scale;Rust+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+CUDA+%E2%80%A2+Kubernetes;From+bare-metal+to+cloud-native+at+100K+rps;Building+what+others+blueprint" alt="Typing SVG" />
-
 <br/><br/>
-
+ 
 ![](https://img.shields.io/badge/-AI%20Infrastructure-000000?style=flat-square&logo=openai&logoColor=FFD700)
 ![](https://img.shields.io/badge/-Distributed%20Systems-000000?style=flat-square&logo=apachekafka&logoColor=FFD700)
 ![](https://img.shields.io/badge/-Security%20Engineering-000000?style=flat-square&logo=hackthebox&logoColor=FFD700)
 ![](https://img.shields.io/badge/-Open%20to%20Collab-111111?style=flat-square&logo=github&logoColor=FFD700)
-
+ 
 <br/>
-
 ![](https://komarev.com/ghpvc/?username=SH4D0WZ0N3&style=flat-square&color=b8960c&label=profile+views)
-
+ 
 </div>
 
 <br/>
